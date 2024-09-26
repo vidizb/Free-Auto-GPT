@@ -14,7 +14,6 @@ from pathlib import Path
 from json import JSONDecodeError
 from langchain.llms.base import LLM
 from typing import Optional, List, Mapping, Any
-from FreeLLM import HuggingChatAPI  # FREE HUGGINGCHAT API
 from FreeLLM import ChatGPTAPI  # FREE CHATGPT API
 from FreeLLM import BingChatAPI  # FREE BINGCHAT API
 import streamlit as st
