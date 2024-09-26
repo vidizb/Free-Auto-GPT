@@ -1,4 +1,4 @@
-from EdgeGPT import Chatbot, ConversationStyle
+from EdgeGPT.EdgeGPT import Chatbot
 import asyncio
 
 import requests
