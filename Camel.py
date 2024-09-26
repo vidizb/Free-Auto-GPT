@@ -20,6 +20,7 @@ from FreeLLM import BingChatAPI  # FREE BINGCHAT API
 import streamlit as st
 from streamlit_chat_media import message
 import os
+from EdgeGPT.EdgeGPT import Chatbot
 
 st.set_page_config(
     page_title="FREE AUTOGPT 🚀 by Intelligenza Artificiale Italia",
