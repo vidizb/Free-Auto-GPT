@@ -1,4 +1,4 @@
-from EdgeGPT.EdgeGPT import Chatbot
+from Bard import Chatbot
 import asyncio
 
 import requests
